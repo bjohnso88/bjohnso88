@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bjohnso88
 - 👀 I’m interested in Sports and Computers
-- 🌱 I’m currently learning Python at Saint Mary's University of Minnesota
+- 🌱 I’m currently learning C++ at Saint Mary's University of Minnesota
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
